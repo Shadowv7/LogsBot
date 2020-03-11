@@ -52,6 +52,12 @@ It has only one feature but it's very well done!
 
 [Thanks to Androz#2091 for helping me develop this bot.](https://github.com/Androz2091)
 
+## Widget
+
+### Divine Discord Bot
+[![](https://divinediscordbots.com/api/widget/674568147029983242.svg)](https://divinediscordbots.com/bot/674568147029983242)
+
+
 ## Links
 
 *   [Discord](https://discord.gg/GMUQdS4)
