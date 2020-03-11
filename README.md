@@ -55,4 +55,5 @@ It has only one feature but it's very well done!
 ## Links
 
 *   [Discord](https://discord.gg/GMUQdS4)
+*   [Invite me](https://discordapp.com/oauth2/authorize?client_id=674568147029983242&permissions=8&scope=bot)
 *   [Github](https://github.com/Shadowv7)
