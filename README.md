@@ -9,6 +9,38 @@
 💻 LogsBot is a new discord bot which has the particularity to make only logs! It has more than 20 different logs and you can choose the channel of each log and activate it or not!
 It has only one feature but it's very well done!
 
+## Commands
+
+### Help
+
+* Displays the help menu
+
+* log!help [command-name]
+
+### Config
+```
+* Displays the server configurations.
+
+* log!config
+```
+### Ping
+```
+* Displays LogsBot's ping.
+
+* log!ping
+```
+### Setup
+```
+* This command is used to set up the logs.
+
+* log!setup option event
+```
+### Stats
+```
+* Displays a graph with server stats.
+
+* log!stats option
+```
 ## Links
 
 *   [Discord](https://discord.gg/GMUQdS4)
