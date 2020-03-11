@@ -57,6 +57,8 @@ It has only one feature but it's very well done!
 ### Divine Discord Bot
 [![](https://divinediscordbots.com/api/widget/674568147029983242.svg)](https://divinediscordbots.com/bot/674568147029983242)
 
+### Arcane Bot Center
+[![](https://arcane-botcenter.xyz.com/api/widget/674568147029983242.svg)](https://arcane-botcenter.xyz/bot/674568147029983242)
 
 ## Links
 
