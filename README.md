@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/-By%20ShadowV%239339-blue)
 [![](https://img.shields.io/discord/683293931793940480.svg?logo=discord&colorB=7289DA)](https://discord.gg/GMUQdS4)
 
-💻 LogsBot is a new discord bot which has the particularity to make only logs! It has more than 20 different logs and you can choose the channel of each log and activate it or not!
+💻 LogsBot is a new discord bot which has the particularity to make only logs! It has more than 35 different logs and you can choose the channel of each log and activate it or not!
 It has only one feature but it's very well done!
 
 ## Commands
