@@ -12,11 +12,11 @@ It has only one feature but it's very well done!
 ## Commands
 
 ### Help
-
+```
 * Displays the help menu
 
 * log!help [command-name]
-
+```
 ### Config
 ```
 * Displays the server configurations.
